@@ -1,7 +1,7 @@
 # Pymaceuticals-Data-Visualization
 Pymaceuticals Data Visualization using Matplotlib
 ## Goal
-Purpose of this study is to compare the performance of Pymaceuticals’ drug of interest, Capomulin, against the other treatment regimens and Creating a Top level summary of the Study results for the execurtives.
+Purpose of this study is to compare the performance of Pymaceuticals’ drug of interest, Capomulin, against the other treatment regimens and Creating a Top level summary of the Study results for the executives.
 ## Results
 * Bar Chart showing the total number of rows for each regimen
 
